@@ -10,14 +10,11 @@ export default function Login() {
     const [state, dispatch] = useStateValue()
 
     const signIn = () => {
-        auth.signInWithPopup(provider)
-            .then(result => {
                 dispatch({
                     type: actionTypes.SET_USER,
-                    user: result.user
+                    user: true
                 })
-            })
-            .catch(e => alert(e.message))
+            
     }
 
     return (
