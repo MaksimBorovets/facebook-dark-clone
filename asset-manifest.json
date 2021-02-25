@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/facebook-dark-clone/static/css/main.202b0e13.chunk.css",
+    "main.js": "/facebook-dark-clone/static/js/main.a8107166.chunk.js",
+    "main.js.map": "/facebook-dark-clone/static/js/main.a8107166.chunk.js.map",
+    "runtime-main.js": "/facebook-dark-clone/static/js/runtime-main.81f359b3.js",
+    "runtime-main.js.map": "/facebook-dark-clone/static/js/runtime-main.81f359b3.js.map",
+    "static/js/2.40524ea8.chunk.js": "/facebook-dark-clone/static/js/2.40524ea8.chunk.js",
+    "static/js/2.40524ea8.chunk.js.map": "/facebook-dark-clone/static/js/2.40524ea8.chunk.js.map",
+    "index.html": "/facebook-dark-clone/index.html",
+    "static/css/main.202b0e13.chunk.css.map": "/facebook-dark-clone/static/css/main.202b0e13.chunk.css.map",
+    "static/js/2.40524ea8.chunk.js.LICENSE.txt": "/facebook-dark-clone/static/js/2.40524ea8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f359b3.js",
+    "static/js/2.40524ea8.chunk.js",
+    "static/css/main.202b0e13.chunk.css",
+    "static/js/main.a8107166.chunk.js"
+  ]
+}
